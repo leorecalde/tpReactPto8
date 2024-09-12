@@ -12,7 +12,7 @@ Este es un ejercio de practica a la introduccios del uso de React, para estudian
 [github](https://github.com/leorecalde/tpReactPto8.git)
 
 ## Link Deploy
-
+[link web](https://tpreactpto8.netlify.app/)
 
 ## Autor
 
